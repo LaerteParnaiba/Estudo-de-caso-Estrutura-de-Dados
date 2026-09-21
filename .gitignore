@@ -1,0 +1,18 @@
+# Executáveis e arquivos de compilação
+*.exe
+*.o
+*.obj
+*.out
+
+# Pastas de build
+bin/
+obj/
+Debug/
+Release/
+
+# IDEs
+.vscode/
+.vs/
+*.dev
+*.layout
+*.depend
